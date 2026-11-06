@@ -1,0 +1,56 @@
+{
+ "id": "mw4l0dirhls73g",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 80266532,
+ "parts": [
+  {
+   "path": "media/mw4l0dirhls73g/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p003.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p004.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p005.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p006.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p007.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p008.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4l0dirhls73g/p009.part",
+   "size": 4769060
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=vixRcdUG8fM",
+ "created_at": 1793945872000,
+ "title": "\u0644\u0628\u0627\u0633 \u0634\u0648\u06cc\u06cc \u0631\u0648 \u0645\u0646\u0641\u062c\u0631 \u06a9\u0631\u062f\u06cc\u0645!!!\ud83e\udd2f\ud83e\udd2f \u06a9\u06cc \u0628\u0627\u0648\u0631 \u0645\u06cc\u0634\u062f \u0627\u0646\u0642\u062f\u0631 \u0633\u06af \u062c\u0648\u0646 \u0628\u0627\u0634\u0647\u061f\u061f!!",
+ "channel": "Mosi & Mj",
+ "yt_id": "vixRcdUG8fM",
+ "thumb": "media/mw4l0dirhls73g.thumb.jpg",
+ "dur": 1042,
+ "preview": "media/mw4l0dirhls73g.preview.gif"
+}

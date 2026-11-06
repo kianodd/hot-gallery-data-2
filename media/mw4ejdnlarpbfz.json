@@ -1,0 +1,33 @@
+{
+ "id": "mw4ejdnlarpbfz",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 39871766,
+ "parts": [
+  {
+   "path": "media/mw4ejdnlarpbfz/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4ejdnlarpbfz/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4ejdnlarpbfz/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4ejdnlarpbfz/p003.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4ejdnlarpbfz/p004.part",
+   "size": 6317334
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=jsqNCMxoFh4",
+ "created_at": 1793936587648,
+ "title": "$1 Torture Ear Cleaning in India 🇮🇳",
+ "channel": "Hugh Abroad",
+ "yt_id": "jsqNCMxoFh4"
+}
